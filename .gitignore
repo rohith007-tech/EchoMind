@@ -1,0 +1,13 @@
+# Security / Secrets
+.env
+
+# Virtual Environments
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Application Data
+downloades/
+vector_db/
