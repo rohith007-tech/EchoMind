@@ -62,8 +62,6 @@ It's usable as a **\*\*CLI\*\*** (`main.py`) for processing videos and asking qu
 | Transcription | [OpenAI Whisper](https://github.com/openai/whisper) (local) · [Sarvam AI](https://www.sarvam.ai/) (Hinglish) |
 | Vector store | [ChromaDB](https://www.trychroma.com/) + HuggingFace `all-MiniLM-L6-v2` embeddings |
 | Audio pipeline | `yt-dlp`, `pydub`, `ffmpeg` |
-| Backend API | [FastAPI](https://fastapi.tiangolo.com/) + WebSockets (live progress streaming) |
-| Frontend | Vanilla HTML / CSS / JS — no build step |
 
 ---
 
