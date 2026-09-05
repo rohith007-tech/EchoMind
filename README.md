@@ -112,7 +112,7 @@ WHISPER_MODEL=small
 
 ### 3. Run it
 
-**As a CLI:**
+**CLI:**
 ```bash
 python main.py
 ```
